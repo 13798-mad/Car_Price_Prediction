@@ -1,6 +1,6 @@
-This project focuses on predicting car prices based on various features using multiple regression techniques. Multiple regression allows us to explore the relationship between several independent variables (features) and a dependent variable (car price).
+The price of card with respect to various car features is calculated with the help Multiple Regression,Ridge Regression and Lasso Regression
 
-Dataset
+This project focuses on predicting car prices based on various features using multiple regression techniques. Multiple regression allows us to explore the relationship between several independent variables (features) and a dependent variable (car price).
 
 The dataset used in this project is sourced from Kaggle. It contains information on various cars.
 
@@ -46,3 +46,8 @@ Model Building
 Splitting the data into training and testing sets
 Training the multiple regression model
 Evaluating the model performance using metrics such as R-squared.
+
+Accuracy:
+Multiple Regression R2_score:81%
+Ridge Regression R2_score:85%
+Lasoo Regression R2_score:84%
